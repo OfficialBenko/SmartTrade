@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UserManager
+comment1.params=
+comment1.target=void\ initiate()
+comment2.params=user
+comment2.target=java.lang.Boolean\ addUser(User)
+comment3.params=identifier
+comment3.target=User\ getUser(java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getAllUsers()
+comment5.params=user
+comment5.target=void\ updateUser(User)
+comment6.params=user
+comment6.target=void\ removeUser(User)
+comment7.params=user
+comment7.target=java.lang.Boolean\ userExists(User)
+comment8.params=
+comment8.target=java.util.ArrayList\ getUserStrings()
+comment9.params=file_name
+comment9.target=void\ createFile(java.lang.String)
+numComments=10

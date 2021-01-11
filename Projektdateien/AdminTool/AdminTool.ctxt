@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AdminTool
+comment1.params=
+comment1.target=AdminTool()
+comment10.params=validated_user
+comment10.target=void\ initiate(User)
+comment11.params=
+comment11.target=void\ updateUserList()
+comment2.params=e
+comment2.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
+comment3.params=e
+comment3.target=void\ insertUpdate(javax.swing.event.DocumentEvent)
+comment4.params=e
+comment4.target=void\ removeUpdate(javax.swing.event.DocumentEvent)
+comment5.params=
+comment5.target=void\ perform_update()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=mouseEvent
+comment8.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=12

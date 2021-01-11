@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UserGUI
+comment1.params=user\ new_account
+comment1.target=UserGUI(User,\ java.lang.Boolean)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ showCredWindow()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=java.lang.Boolean\ isAdmin()
+comment9.params=
+comment9.target=java.lang.Boolean\ hasAccess()
+numComments=10
