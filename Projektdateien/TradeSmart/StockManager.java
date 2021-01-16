@@ -348,7 +348,7 @@ public class StockManager {
         
         try {
             // URL festlegen (mit API-Key - Limitierung: 250 Anfragen / Tag)
-            URL url = new URL("https://financialmodelingprep.com/api/v3/quote-short/" + symbol + "?apikey=278807135dad85c22163df813bed502a");
+            URL url = new URL("https://financialmodelingprep.com/api/v3/quote-short/" + symbol + "?apikey=<API-KEY>");
             
             // Antwort der Website einlesen
             try (BufferedReader reader = new BufferedReader(new InputStreamReader(url.openStream(), "UTF-8"))) {
