@@ -302,7 +302,7 @@ public class StockManager {
         message_pane.setFocusable(false);
         message_pane.setEditable(false);
         message_pane.setBounds(25, 25, 300, 100);
-        message_pane.setText("Sie sind dabei " + (int) ((double) share.getAmount()) + " Aktien \nfür " + share.getPrice().toString() + " $ zu verkaufen." 
+        message_pane.setText("Sie sind dabei " + (int) ((double) share.getAmount()) + " Aktien \nfür " + (share.getAmount() * getPrice(share.getSymbol())) + " $ zu verkaufen." 
                               + "\n\nBitte bestätigen Sie den Verkauf!");
         message_pane.setFont(new Font("Verdana", Font.PLAIN, 15));
         StyledDocument doc = message_pane.getStyledDocument();
